@@ -1,0 +1,1 @@
+Til mit afslutningsprojekt i mit teknikfag på gymnasiet (HTX) lavede jeg, i samarbejde med en ven, et modelhjem med monterede komponenter, der blev styret i form af en Arduino Uno og Windows Form App. Med app’en kunne en bruger tænde/slukke lys, justere styrke på radiator og fane, lukke/åbne vinduer og slå alarm til/fra.
