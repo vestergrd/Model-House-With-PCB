@@ -1,0 +1,10 @@
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\bin\Debug\HOUSE REALLY FIXED.exe.config
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\bin\Debug\HOUSE REALLY FIXED.exe
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\bin\Debug\HOUSE REALLY FIXED.pdb
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE REALLY FIXED.csprojAssemblyReference.cache
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE_REALLY_FIXED.Form1.resources
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE_REALLY_FIXED.Properties.Resources.resources
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE REALLY FIXED.csproj.GenerateResource.cache
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE REALLY FIXED.csproj.CoreCompileInputs.cache
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE REALLY FIXED.exe
+C:\Users\emild\source\repos\HOUSE REALLY FIXED\HOUSE REALLY FIXED\obj\Debug\HOUSE REALLY FIXED.pdb
